@@ -7,9 +7,9 @@ are potential improvement which will be the topic for pipeline discussion
 
 This project requires python 3.8.
 
-Please download & install python 3.8  from here
+Please download & install python 3.8  from [here](https://www.python.org/downloads/release/python-380/)
 
-All dependencies can be installed from here
+All dependencies can be installed from [here](https://www.pytho)
 
 To run the project, follow these steps:
 
